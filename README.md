@@ -57,16 +57,7 @@ This project implements a Convolutional Neural Network (CNN) to classify satelli
 - **Training Accuracy**: 97.62%  
 - **Validation Accuracy**: **91.92%**
 
-## 📌 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/clairemiles/land-use-classification-cnn
-   cd land-use-classification-cnn
-
-    Open the Jupyter Notebook 2_cnn_model.ipynb.
-
-    Run the cells to load data, train the model, and evaluate.
 
 📎 References
 
